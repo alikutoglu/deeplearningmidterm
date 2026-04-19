@@ -1,0 +1,6 @@
+--- TEST SETİ METRİKLERİ ---
+Accuracy    : 0.9927
+Precision   : 0.9922
+Recall      : 0.9935
+Specificity : 0.9919
+F1 Score    : 0.9928
